@@ -85,7 +85,7 @@ input, button, .button {
 button, .button {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
-    line-height: 0;
+    line-height: 1;
 
     display: flex;
     align-items: center;
