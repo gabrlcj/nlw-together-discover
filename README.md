@@ -8,11 +8,11 @@
 </p>
 
 <div align="center">
-    <a href="#-sobre">Sobre</a>
-    <a href="#-imagem">Imagem</a>
-    <a href="#-tecnologias">Tecnologias</a>
-    <a href="#-features">Features</a>
-    <a href="#-licença">Licença</a>
+    <a href="#-sobre">Sobre</a> •
+    <a href="#-imagem">Imagem</a> •
+    <a href="#-tecnologias">Tecnologias</a> •
+    <a href="#-features">Features</a> •
+    <a href="#-licença">Licença</a> •
     <a href="#-autor">Autor</a>
 </div>
 
