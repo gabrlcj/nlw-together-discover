@@ -145,3 +145,30 @@
 .question-wrapper.read .question-content .user {
     background: var(--grey-blue);
 }
+
+/* --------------------------- NO-QUESTIONS STYLES ------------------------------- */
+.no-question {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    margin-top: 5.2rem;
+}
+
+.no-question img {
+    max-width: 100%;
+}
+
+.no-question h3 {
+    font: 700 1.8rem 'Poppins', sans-serif;
+    color: var(--black);
+    margin-top: 1.2rem;
+}
+
+.no-question p {
+    margin-top: 1.2rem;
+    color: var(--grey-dark);
+    font-size: 1.4rem;
+    line-height: 1.9rem;
+}
