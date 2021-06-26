@@ -148,11 +148,7 @@
 
 /* --------------------------- NO-QUESTIONS STYLES ------------------------------- */
 .no-question {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-
+    text-align: center;
     margin-top: 5.2rem;
 }
 
