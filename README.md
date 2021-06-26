@@ -10,8 +10,8 @@
 <div align="center">
     <a href="#-sobre">Sobre</a> •
     <a href="#-imagem">Imagem</a> •
-    <a href="#-tecnologias">Tecnologias</a> •
-    <a href="#-features">Features</a> •
+    <a href="#%EF%B8%8F-features">Features</a> •
+    <a href="#%EF%B8%8F-tecnologias">Tecnologias</a> •
     <a href="#-licença">Licença</a> •
     <a href="#-autor">Autor</a>
 </div>
@@ -26,15 +26,6 @@
 
 ---
 
-## ⚙️ Features
-
-- [x] Criação de salas
-- [x] Opção de marca-lás como lidas
-- [x] Opção de excluir pergunta
-- [x] Armazenamento em banco de dados
-
----
-
 ## 📷 Imagem
 
 <div align="center">
@@ -45,6 +36,14 @@
 
 ---
 
+## ⚙️ Features
+
+- [x] Criação de salas
+- [x] Opção de marca-lás como lidas
+- [x] Opção de excluir pergunta
+- [x] Armazenamento em banco de dados
+
+---
 
 ## 🗃️ Tecnologias
 
